@@ -32,4 +32,4 @@ The repository consists of the following files and directories:
 
 ## Contact
 
-For any inquiries or feedback, feel free to reach out to me via the contact form on the website or at [priyanshisoni844@gmail.com](mailto:priyanshisoni844@gmail.com).
+For any inquiries or feedback, feel free to reach out to me at [priyanshisoni844@gmail.com](mailto:priyanshisoni844@gmail.com).
